@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there
 
+🌱 I'm currently learning basic math skills, including algebra and mathematical analysis. I've invested a lot of after-school time in teaching myself computers, and I hope I can learn more.
+
+👯 I'm looking forward to participating in open-source projects related to deep learning, while learning along the way.
+
+🤔 I'm looking for programming advice and inspiration for deep learning projects!
+
+📫 How to reach me: contact me in Git Hub is all right.
+
+😄 Pronouns: You can call me whatever you like.
 <!--
 **cucmum/cucmum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
